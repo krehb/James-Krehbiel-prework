@@ -1,0 +1,33 @@
+#nav {
+    background-color: gray;
+    text-align: center;
+}
+
+#left {
+    background-color: blue;
+    text-align: center;
+    padding-top: 180px;
+    padding-bottom: 180px;
+    padding-left: 50%;
+    padding-right: 50%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#right {
+    background-color: red;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 180px;
+    margin-top: 0;
+    padding-top: 180px;
+    padding-right: 25%;
+    padding-bottom: 180px;
+}
+
+#footer {
+    background-color: green;
+    text-align: center;
+
+}
